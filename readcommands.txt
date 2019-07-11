@@ -1,0 +1,5 @@
+git status 
+git add <filename>
+git commit -m "testing" 
+git remote add origin https://github.com/PriyankaePayLater/api.git
+git push -u origin master
